@@ -50,7 +50,7 @@ export const sliderCategories = [
 
 export const counters = [
   { label: 'Projects Completed', value: 400, suffix: '+' },
-  { label: 'Years of Experience', value: 8, suffix: '+', duration: 1400 },
+  { label: 'Years of Experience', value: 21, suffix: '+', duration: 1400 },
   { label: 'Happy Clients', value: 95, suffix: '%' },
   { label: 'Cities Covered', value: 6, suffix: '' },
 ]
