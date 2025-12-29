@@ -57,14 +57,11 @@ npm run dev
 ## 📞 Contact
 
 **Nisha Enterprises**
-- Phone: 80802 40577
-- Email: build@nishaenterprises.com
-- Address: Qamar Park, Bhayandar East, Mira Bhayandar, Maharashtra - 401105
+- Phone: 
+- Email: 
+- Address: 
 - WhatsApp: [Click to chat](https://wa.me/918080240577?text=Hello%20Nisha%20Enterprises)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
