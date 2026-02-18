@@ -1,6 +1,6 @@
 export const company = {
   name: 'Nisha Enterprises',
-  phone: '80802 40577',
+  phone: '98196 20668',
   whatsappLink: 'https://wa.me/918080240577?text=Hello%20Nisha%20Enterprises',
   email: 'build@nishaenterprises.com',
   address: 'Qamar Park, Bhayandar East, Mira Bhayandar, Maharashtra - 401105 , building no A/2 102 ',
@@ -45,7 +45,7 @@ export const sliderCategories = [
     image:
       '/Images/gypsum.jpg',
   },
-  
+
 ]
 
 export const counters = [
@@ -119,7 +119,7 @@ export const services = [
     title: 'Interior Design',
     description:
       'Concept-to-completion spaces, material boards',
-      // 3D visualization, and turnkey execution.
+    // 3D visualization, and turnkey execution.
   },
 ]
 
@@ -195,7 +195,7 @@ export const projectCategories = [
         image:
           '/Images/Residential/10.jpg',
       }, {
-          id: 'res-11',
+        id: 'res-11',
         title: 'UNICO INDUSTRIAL PARK',
         caption: 'Vasai(E)',
         image:
@@ -207,13 +207,13 @@ export const projectCategories = [
         image:
           '/Images/Residential/12.jpg',
       }, {
-            id: 'res-13',
+        id: 'res-13',
         title: 'Shree Shiv Shakti',
         caption: 'Boriwali(W)',
         image:
           '/Images/Residential/13.jpg',
       }, {
-            id: 'res-14',
+        id: 'res-14',
         title: 'Sterling',
         caption: 'Dahisar(W)',
         image:
@@ -249,6 +249,64 @@ export const projectCategories = [
         image:
           '/Images/Ceilings/3.jpg',
       },
+      {
+        id: 'ceil-4',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/5.jpeg',
+      }, {
+        id: 'ceil-5',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/6.jpeg',
+      },
+      {
+        id: 'ceil-6',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/7.jpeg',
+      },
+      {
+        id: 'ceil-7',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/8.jpeg',
+      },
+      {
+        id: 'ceil-8',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/9.jpeg',
+      }, {
+        id: 'ceil-9',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/10.jpeg',
+      }, {
+        id: 'ceil-11',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/11.jpeg',
+      }, {
+        id: 'ceil-12',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/12.jpeg',
+      }, {
+        id: 'ceil-13',
+        // title: 'Linear Lounge',
+        // caption: 'Recessed linear lights accenting custom baffle ceiling.',
+        image:
+          '/Images/Ceilings/13.jpeg',
+      },
     ],
   },
   {
@@ -278,6 +336,69 @@ export const projectCategories = [
         // caption: 'Indoor-outdoor dining space with live green wall.',
         image:
           '/Images/interiors/4.jpg',
+      },
+      {
+        id: 'int-4',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/5.jpeg',
+      },
+      {
+        id: 'int-5',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/6.jpeg',
+      },
+      {
+        id: 'int-6',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/7.jpeg',
+      }, {
+        id: 'int-7',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/8.jpeg',
+      }, {
+        id: 'int-8',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/9.jpeg',
+      }, {
+        id: 'int-9',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/10.jpeg',
+      }, {
+        id: 'int-10',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/11.jpeg',
+      }, {
+        id: 'int-11',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/12.jpeg',
+      }, {
+        id: 'int-12',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/13.jpeg',
+      }, {
+        id: 'int-13',
+        // title: 'Botanical Suite',
+        // caption: 'Indoor-outdoor dining space with live green wall.',
+        image:
+          '/Images/interiors/14.jpeg',
       },
     ],
   },
